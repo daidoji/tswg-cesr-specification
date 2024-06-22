@@ -1183,7 +1183,7 @@ A compliant KERI/ACDC genus MUST have the following codes in its Primitive and C
 |   `1AAK`   | Null None or empty value |      4      |              |      4      |
 |   `1AAL`   | No falsey Boolean value |      4      |              |      4      |
 |   `1AAM`   | Yes truthy Boolean value|      4      |              |      4      |
-|   `1AAN`   | Tag4 4 B64 encoded chars for special values |      4      |       4       |      8      |
+|   `1AAN`   | Tag4 4 B64 encoded chars for special values |      4      |       8       |      12      |
 |   `1AAO`   | Tag8 8 B64 encoded chars for special values |      4      |       8       |      12      |
 |            |  Variable Raw Size Codes  |             |              |              |
 |   `4A`     | String Base64 Only Lead Size 0      |      4      |      2        |            |
